@@ -1,0 +1,10 @@
+1_verifyTheLogoutFunctionality=false
+ts-2VerifyNewHolidaysCouldBeCreated=false
+ts-3VerifyAnErrorAppearsWhenPasswordAndConfirmPasswordMismatch=false
+ts-4VerifyAdminCanAddRecord=false
+ts-5VerifyNavigationToTheGeneralInformationTab=false
+ts-6VerifyImageCouldBeUploadedAsProfilePic=false
+ts-7VerifyNavigationToTheOrganizationStructureTab=false
+ts-8VerifyAdminCanSortTheRecord=false
+ts-9VerifyNewTabOpensOnClickingTheUpgradeButton=false
+ts-10VerifyTooltipShowsUpWhenHoveredOver'help'Button(questionMark)=false
